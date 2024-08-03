@@ -1,0 +1,12 @@
+2023-11-08T12:28:25.638Z: WhenSunset.chatgpt-china2023-11-08T12:28:25.652Z: vscode.window.registerWebviewViewProvider is accessed. parameters: {"viewId":"chatgpt-china"}, response: {} 
+2023-11-08T12:28:25.652Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.chatMoss0ptimize"}, response: {} 
+2023-11-08T12:28:25.653Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.chatMossBugCcan"}, response: {} 
+2023-11-08T12:28:25.653Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.question"}, response: {} 
+2023-11-08T12:28:25.652Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.chatMossExplain"}, response: {} 
+2023-11-08T12:28:25.653Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.openWebview"}, response: {} 
+2023-11-08T12:28:25.654Z: vscode.commands.registerCommand is accessed. parameters: {"id":"extension.chat.deleteStore"}, response: {} 
+2023-11-08T12:29:17.000Z: vscode.window.activeTextEditor is accessed. parameters: "", response: {} 
+2023-11-08T12:29:17.001Z: vscode.window.showInformationMessage is accessed. parameters: {"message":"未选中文字"}, response: {} 
+2023-11-08T12:29:42.104Z: vscode.window.activeTextEditor is accessed. parameters: "", response: {} 
+2023-11-08T12:29:42.105Z: vscode.window.showInformationMessage is accessed. parameters: {"message":"未选中文字"}, response: {} 
+2023-11-08T12:30:24.960Z: vscode.commands.executeCommand is accessed. parameters: {"id":"chatgpt-china.focus"}, response: {} 
