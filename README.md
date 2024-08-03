@@ -1,6 +1,13 @@
 # DAV2-ACAnTVSCEE
 
-This repository contains the analysis summary of the VSCode extension ecosystem
+This repository contains the analysis summary of the VSCode extension ecosystem.
+
+## Table of Contents
+
+1. [Summary of Results by Threat Model and Suspicious Type](#overall-summary-of-results-by-threat-model-and-suspicious-type)
+2. [Summary of the details about each folder/file in the artifacts repository](#this-table-contains-a-summary-of-the-details-about-each-folderfile-in-the-provided-artifacts-repository)
+3. [How to Work with Instrumented VSCode](#how-to-work-with-instrumented-vscode)
+4. [Dynamic Analysis (Verified behavior with manual execution)](#dynamic-analysis-verified-behavior-with-manual-execution)
 
 #
 
