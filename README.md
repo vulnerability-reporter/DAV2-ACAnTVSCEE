@@ -9,6 +9,8 @@ This repository contains the analysis summary of the VSCode extension ecosystem.
 3. [How to Work with Instrumented VSCode](#how-to-work-with-instrumented-vscode)
 4. [Dynamic Analysis (Verified behavior with manual execution)](#dynamic-analysis-verified-behavior-with-manual-execution)
 
+Due to the space limit of GitHub repositories, some artifacts(such as data files) could not be fully uploaded to the GitHub repository. We utilized [google drive](https://drive.google.com/drive/folders/1eLnksiSiMBIAaqr_Aq0hVxcJ2Bj10BBS?usp=sharing) to upload such artifacts. 
+
 #
 
 ### Overall Summary of Results by Threat Model and Suspicious Type
