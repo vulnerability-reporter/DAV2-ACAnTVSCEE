@@ -56,7 +56,7 @@ Due to the space limit of GitHub repositories, some artifacts(such as data files
 |Reported-Cases/Action-Taken-Cases|This document contains the extensions that were removed from the marketplace after we reported their malicious behavior to the VSCode Marketplace team.|
 |Results-RetireJs-Analysis/retirejs\_vulnerability\_report.json|A JSON file containing extension details along with the vulnerable packages used in the extension's development and their associated vulnerabilities with CVE numbers. The JSON file is formatted with the extension ID as the key to hold these details.|
 |Results-RetireJs-Analysis/CVEs-and-Details|A folder containing summarized CVE details along with the npm package names. Note that these are raw data files, which include download counts for the extensions but lack keys to identify each extension’s download count.|
-|Results-RetireJs-Analysis/POC-on-cve-exploits.zip|We verified whether the high CVEs could be exploited. This sample extension addresses the high CVEs we identified based on RetireJS analysis.|
+|Results-CVE-PoC/POC-on-cve-exploits.zip|We verified whether the high CVEs could be exploited. This sample extension addresses the high CVEs we identified based on RetireJS analysis.|
 |Results-VirusTotal-Analysis/vt\_analysis\_filtered.xlsx|This file contains details about the identified extensions based on VirusTotal analysis. The document has two sheets: one for the VSIX file itself and another for the URLs that are benign and used in the extensions for external communications.|
 |Data-VSIX-Files|A ZIP file containing the list of extensions selected for dynamic analysis.|
 
